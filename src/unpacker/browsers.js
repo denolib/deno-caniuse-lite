@@ -1,2 +1,2 @@
-import browsers from "../../data/browsers.js";
-export default browsers;
+import browsers from "../../data/browsers.js"
+export default browsers
