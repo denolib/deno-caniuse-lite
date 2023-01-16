@@ -1,2 +1,2 @@
-import browserVersions from '../../data/browserVersions.js';
-export default browserVersions;
+import browserVersions from '../../data/browserVersions.js'
+export default browserVersions

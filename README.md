@@ -1,5 +1,5 @@
 # deno-caniuse-lite
 Port of caniuse-lite to deno.
 
-Version [v1.0.30001040](https://github.com/ben-eb/caniuse-lite/releases/tag/v1.0.30001040)
+Version [v1.0.30001445](https://github.com/browserslist/caniuse-lite/releases/tag/1.0.30001445)
 

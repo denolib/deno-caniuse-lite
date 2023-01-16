@@ -3,5 +3,5 @@
  * doesn't appear in the rollup bundle.
  */
 
-import features from "../../data/features.js";
-export default features;
+import features from "../../data/features.js"
+export default features
